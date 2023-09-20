@@ -2,7 +2,7 @@
 addpath('matconvnet-1.0-beta25\matlab');
 % vl_compilenn; 
 addpath(fullfile('utilities'));
-folder_test = 'data';%²âÊÔ¼¯ÎÄ¼ş¼Ğ
+folder_test = 'data';%
 showresult  = 1;
 gpu         = 1; 
 load('pure.mat')
