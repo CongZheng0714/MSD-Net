@@ -1,6 +1,6 @@
 
 addpath('matconvnet-1.0-beta25\matlab');
-% vl_compilenn; 
+vl_compilenn; 
 addpath(fullfile('utilities'));
 folder_test = 'data';%
 showresult  = 1;
